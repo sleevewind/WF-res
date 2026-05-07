@@ -1,4 +1,4 @@
-# WFRes Code Submission
+# WFRes
 
 This directory contains the code used for the experiments reported in the paper.
 It is organized into three parts:
